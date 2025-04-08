@@ -3,7 +3,7 @@ name: Build and Push Multi-Platform Docker Image
 on:
   push:
     branches:
-      - main
+      - mainls
 
 jobs:
   build-and-push:
