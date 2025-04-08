@@ -5,7 +5,7 @@ metadata:
 spec:
   containers:
   - name: flask-container
-    image: kksshh0612/downward-api:latest
+    image: ghcr.io/kksshh0612/downward-api:latest
     ports:
     - containerPort: 5000
     env:
